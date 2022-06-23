@@ -13,14 +13,14 @@ html{
 
 body{
     background-image: url('/app/images/bg-desktop.svg');
-    background-size: 80%;
+    background-size: cover;
     background-repeat: no-repeat ;
     background-color: $Violet; 
 }
 
 .header{
-    padding: 5rem 5rem;
+    padding: 3rem 5rem;
     &__logo{
-        width: 24rem;
+        width: 22rem;
     }
 }
